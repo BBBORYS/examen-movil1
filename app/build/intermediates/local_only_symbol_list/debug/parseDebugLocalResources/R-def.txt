@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+dimen padding_extra_large
+dimen padding_large
+dimen padding_medium
+dimen padding_small
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable imagen1
+drawable imagen2
+drawable imagen3
+drawable imagen4
+drawable imagen5
+drawable imagen6
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string cliente_title
+string producto_titulo
+style Theme.Moviles_examen
+xml backup_rules
+xml data_extraction_rules
