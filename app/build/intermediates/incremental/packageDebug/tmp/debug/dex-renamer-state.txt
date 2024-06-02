@@ -1,4 +1,4 @@
-#Sat Jun 01 22:32:19 COT 2024
+#Sun Jun 02 00:32:33 COT 2024
 base.0=C\:\\Users\\melli\\OneDrive\\Escritorio\\examen_moviles-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\melli\\OneDrive\\Escritorio\\examen_moviles-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.10=C\:\\Users\\melli\\OneDrive\\Escritorio\\examen_moviles-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
